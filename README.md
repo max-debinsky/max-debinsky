@@ -1,4 +1,10 @@
-### Hi there 👋
+### Max
+改善. C++
+<details>
+<summary>Currently working on</summary>
+- **Spectre** - simple DirectX based 2D graphics engine.
+- Making a rigidbody physics engine.
+</details>
 
 <!--
 **max-debinsky/max-debinsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
