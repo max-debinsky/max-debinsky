@@ -1,5 +1,7 @@
 ### Max
 改善. C++
+![](https://github.com/max-debinsky/max-debinsky/blob/main/background.gif)
+
 <details>
 <summary>Currently working on</summary>
   
