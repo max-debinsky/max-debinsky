@@ -1,5 +1,5 @@
 ### Max
-改善. C++
+~改善.
 ![](https://github.com/max-debinsky/max-debinsky/blob/main/background.gif)
 
 <details>
